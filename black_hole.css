@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: helvetica, courier new;
+    /*font-weight: bold;*/
+}
+
+h1 {
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+h2,h4 {
+	margin-top: 50px;
+	margin-bottom: 0px;
+	font-variant-caps: small-caps;
+}
+
+h4 {
+	margin: 10px 10px 0px 10px;
+	font-variant-caps: small-caps;
+}
+
+h6 {
+	margin:0px auto;
+	text-align: center;
+}
+
+p {
+	margin:0px 10px 0px 10px;
+}
+
+img {
+	max-width: 100%;
+	margin:0px;
+}
